@@ -12,7 +12,7 @@ export default function Works(){
         <section id="works">
             <h2 className="worksTitle">My Portfolio</h2>
             <span className="worksDesc">Hi, I am Vineeth. I am a software engineer looking for fulltime role. Currently I am pursuing a Masters in computer science at UMass Amherst. I worked as a software engineer at Samsung for 2 years.</span>
-            <div className="workImgs">
+            <div className="worksImgs">
                 <img src={Portfolio1} alt="Portfolio1" className="worksImg" />
                 <img src={Portfolio2} alt="Portfolio2" className="worksImg" />
                 <img src={Portfolio3} alt="Portfolio3" className="worksImg" />

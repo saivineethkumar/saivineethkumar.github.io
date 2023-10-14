@@ -69,9 +69,27 @@
     } */
 
 }
-
-/* @media screen and (max-width: 480px) {
+@media screen and (max-width: 550px) {
     .bg{
         right: -20vw;
     }
-} */
+}
+@media screen and (max-width: 450px) {
+    .bg{
+        right: -40vw;
+    }
+}
+@media screen and (max-height: 450px) {
+    .bg{
+        right: 10vw;
+        height: 90vh;
+        top: -2vw;
+    }
+}
+@media screen and (max-height: 350px) {
+    .bg{
+        right: 20vw;
+        height: 90vh;
+        top: -2vw;
+    }
+}
