@@ -43,7 +43,7 @@
     .menu{
         position: absolute;
         right: 0;
-        margin: 10%;
+        margin-right: 10%;
         flex-direction: column;
         align-items: flex-end;
         gap: 11px;
