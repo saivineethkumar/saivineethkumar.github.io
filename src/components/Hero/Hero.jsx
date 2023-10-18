@@ -7,13 +7,19 @@ const Hero = () => {
   return (
     <section className={styles.container}>
         <div className={styles.content}>
-            <h1 className={styles.title}>Hi, I'm Vineeth</h1>
-            <p className={styles.description}>I'm a Software Developer with 2 years of experience in developing applications from end to end. Reach out if you'd like to learn more.</p>
-            <a href='mailto:sdara@umass.edu' className={styles.contactBtn}>Contact Me</a>
+          <span className={styles.hello}>Hello,</span>
+          <span className={styles.introText}>
+            I'm <span className={styles.introName}>Vineeth</span> <br /> Software Developer{" "}
+          </span>
+            <p className={styles.description}>
+            I am an experienced Software Developer, intrested in developing products that can change the world for better.
+            </p>
+            <div className={styles.buttons}>
+              <a href='#contact' className={styles.contactBtn}>Contact Me</a>
+              <a href='' className={styles.downloadBtn}>Download CV</a>
+            </div>
         </div>
         <img src={getImageUrl("hero/heroImage.png")} alt='Image of me' className={styles.heroImg}/>
-        <div className={styles.topBlur} />
-        <div className={styles.bottomBlur} />
     </section>
   )
 }
