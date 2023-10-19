@@ -6,8 +6,9 @@
     align-items: center;
     justify-content: space-between;
     z-index: 1;
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 7%;
+    margin-right:7%;
+    margin-top: 15px;
 }
 
 .content{
@@ -17,27 +18,29 @@
     color: var(--color-text);
     z-index: 1;
     margin-top: 50px;
+    width: 50%;
 }
 
 .hello{
-    font-size: 30px;
+    font-size: 35px;
     margin-bottom: 10px;
     font-weight: 300;
 }
 
 .introText{
-    font-size: 55px;
-    margin-bottom: 20px;
+    font-size: 45px;
+    margin-bottom: 10px;
 }
 
 .introName{
     color: yellow;
+    font-size: 48px;
     font-weight: 900;
 }
 
 .description{
-    font-size: 20px;
-    margin-bottom: 52px;
+    font-size: 16px;
+    margin-bottom: 30px;
     font-weight: 300;
     letter-spacing: 1px;
 }
@@ -53,9 +56,10 @@
     background-color: white;
     color: black;
     border-radius: 100px;
-    font-size: 19px;
+    font-size: 15px;
     font-weight: 600;
-    padding: 15px 23px;
+    padding: 13px 18px;
+    height: 50px;
 }
 
 .downloadBtn{
@@ -63,16 +67,17 @@
     background-color: white;
     color: black;
     border-radius: 100px;
-    font-size: 19px;
+    font-size: 15px;
     font-weight: 600;
-    padding: 15px 23px;
+    padding: 13px 18px;
+    height: 50px;
 }
 
 .heroImg{
     z-index: -1;
     right: 0;
     object-fit: cover;
-    height: 90vh;
+    height: 110vh;
 }
 
 
@@ -82,12 +87,11 @@
     }
     .heroImg{
         position: absolute;
-        right: 0;
+        right: -3rem;
         z-index: -1;
         top: -4rem;
         object-fit: cover;
         height: 100vh;
-        width: 100%;
     }
     .buttons {
         flex-direction: column;
