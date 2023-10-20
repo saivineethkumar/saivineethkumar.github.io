@@ -16,7 +16,7 @@ export const ProjectCard = ({project:{title, imageSrc, description, skills, sour
             }
         </ul>
         <div className={styles.links}>
-            <a href={source} className={styles.link}>Source</a>
+            <a href={source} className={styles.link} target="_blank" rel="noopener noreferrer">Source</a>
         </div>
 
     </div>

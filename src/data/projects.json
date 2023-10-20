@@ -1,42 +1,37 @@
 [
   {
-    "title": "Project A",
+    "title": "Stock Trading System",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Mock stock trading application developed using distributed system design practices.",
+    "skills": ["Distributed systems", "Python", "Docker","Kubernetes", "AWS", "HTTP","gRPC"],
+    "source": "https://github.com/saivineethkumar/StockBazaar"
   },
   {
-    "title": "Project B",
+    "title": "EleNa",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Elevation based Navigation System web app",
+    "skills": ["JavaScript","Python", "Flask", "OSMnx", "Elevation API","Git"],
+    "source": "https://github.com/saivineethkumar/EleNa-Elevation-Based-Navigation-System"
   },
   {
-    "title": "Project C",
+    "title": "Portfolio Website",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Personal portfolio website showcasing skills in react.",
+    "skills": ["React", "JavaScript", "Emailjs","Git","CSS"],
+    "source": "https://github.com/saivineethkumar/saivineethkumar.github.io"
   },
   {
-    "title": "Project C",
+    "title": "Calculator App",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "A simple calculator application created as a part of mastering web development journey.",
+    "skills": ["React", "JavaScript", "CSS"],
+    "source": "https://github.com/saivineethkumar/Calculator-App-React"
   },
   {
-    "title": "Project C",
+    "title": "To-do App",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "A simple To-do application created as a part of mastering web development journey.",
+    "skills": ["React", "JavaScript", "CSS"],
+    "source": "https://github.com/saivineethkumar/Simple-Todo-App-React"
   }
 ]
