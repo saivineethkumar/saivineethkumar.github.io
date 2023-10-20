@@ -79,10 +79,9 @@
 }
 
 .historyItem img{
-    width: 50px;
+    width: 70px;
     margin: 0 auto;
-    margin-left: 4rem;
-    margin-right: 4rem;
+    margin: 4rem;
 }
 
 .historyItemDetails{
@@ -98,12 +97,16 @@
 }
 
 .historyItemDetails ul{
-    margin-top: 6px;
+    margin-top: 10px;
     list-style-position: inside;
     font-size: 17px;
     font-weight: 300;
     list-style-type: disc;
     margin-left: 20px;
+}
+
+.historyItemDetails li{
+    margin-bottom: 5px;
 }
 
 @media screen and (max-width: 830px) {
@@ -123,10 +126,9 @@
     }
     .historyItem{
         width: 100%;
+        flex-direction: column;
     }
     .historyItem img{
-        width: 50px;
-        margin-left: 1rem;
-        margin-right: 1rem;
+        margin: 4rem;
     }
 }

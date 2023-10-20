@@ -1,29 +1,35 @@
 [
   {
     "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
-  },
-  {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
+    "organisation": "Samsung Research",
+    "startDate": "Sep, 2020",
+    "endDate": "June 2022",
+    "experiences": 
+    ["Led the development and maintenance of applications catering to 500M+ users.",
+    "Spearheaded the integration of key monetization features, driving 17% revenue growth.",
+    "Conducted code reviews and code refactoring techniques.",
+    "Honored with prestigious Paramount Achievement Award for innovative and exemplary contributions."],
+    "imageSrc": "history/samsung.png"
   },
   {
     "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "organisation": "Samsung Research",
+    "startDate": "Summer, 2019",
+    "endDate": "",
+    "experiences": 
+    ["Intelligent Proximity Sensor: Designed and implemented an innovative ML alternative solution to a hardware proximity sensor, which is estimated to contribute to a potential 5% reduction in space in device design and a 3% reduction in manufacturing costs."],
+    "imageSrc": "history/samsung.png"
+  },
+  {
+    "role": "SWE Intern",
+    "organisation": "Tika-Data",
+    "startDate": "Summer, 2018",
+    "endDate": "",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Implemented Object Detection and Semantic segmentation tasks with state-of-the-art neural network architectures.",
+      "Developed efficient backend API functions.",
+      "Demonstrated the effectiveness of Transfer Learning and Incremental Learning techniques."
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/tika.png"
   }
 ]
