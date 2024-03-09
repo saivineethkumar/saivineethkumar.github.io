@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://saivineethkumar.github.io",
+  "homepage": "http://saivineethkumar.github.io/saivineethkumar.github.io",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
