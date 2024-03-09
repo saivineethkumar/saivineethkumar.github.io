@@ -5,10 +5,10 @@
     "startDate": "Sep, 2020",
     "endDate": "June 2022",
     "experiences": 
-    ["Led the development and maintenance of applications catering to 500M+ users.",
-    "Spearheaded the integration of key monetization features, driving 17% revenue growth.",
-    "Conducted code reviews and code refactoring techniques.",
-    "Honored with prestigious Paramount Achievement Award for innovative and exemplary contributions."],
+    ["Led the development and maintenance of applications catering to over 500 million users.",
+    "Spearheaded the integration of key monetization features, driving revenue growth by 12%.",
+    "Reduced code complexity by 30% through code reviews and code refactoring techniques.",
+    "Honored with the prestigious Paramount Achievement Award for innovative and exemplary contributions."],
     "imageSrc": "history/samsung.png"
   },
   {
@@ -17,7 +17,7 @@
     "startDate": "Summer, 2019",
     "endDate": "",
     "experiences": 
-    ["Intelligent Proximity Sensor: Designed and implemented an innovative ML alternative solution to a hardware proximity sensor, which is estimated to contribute to a potential 5% reduction in space in device design and a 3% reduction in manufacturing costs."],
+    ["Intelligent Proximity Sensor: Designed and implemented a novel machine learning-based proximity sensor alternative, resulting in a 5% reduction in device design space and a 3% decrease in manufacturing costs."],
     "imageSrc": "history/samsung.png"
   },
   {
@@ -26,8 +26,8 @@
     "startDate": "Summer, 2018",
     "endDate": "",
     "experiences": [
-      "Implemented Object Detection and Semantic segmentation tasks with state-of-the-art neural network architectures.",
-      "Developed efficient backend API functions.",
+      "Implemented and deployed backend ML models for object detection and semantic segmentation tasks.",
+      "Designed efficient APIs for seamless integration with the frontend, enhancing application functionality.",
       "Demonstrated the effectiveness of Transfer Learning and Incremental Learning techniques."
     ],
     "imageSrc": "history/tika.png"

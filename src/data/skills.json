@@ -6,20 +6,20 @@
   },
   {
     "category": "Tools / Frameworks",
-    "list": ["Git", "ReactJS", "NodeJS", "MongoDB", "Flask", "Android", "code review",
+    "list": ["Git", "ReactJS", "Django", "MongoDB", "Flask", "Android",
             "Linux","Object Oriented Programming","Design Patterns","Junit testing",  
             "Docker", "Kubernetes", "AWS", "Web scrapping", "RESTful API",
-            "ChatGPT", "web development", "frontend", "backend", "full stack"],
+            "ChatGPT","MVC","Microservices","LLMs"],
     "show": 1
   },
   {
     "category": "Machine Learning / Data Science",
-    "list": ["Python", "R","Tensorflow", "PyTorch", "Keras", "Numpy", "Pandas", "Tableau"],
+    "list": ["Python", "R","Tensorflow", "PyTorch", "Keras", "Numpy", "Pandas", "Tableau","Prompt Engineering"],
     "show": 1
   },
   {
     "category": "Miscellaneous",
-    "list": ["Problem Solving", "innovation", "leadership",  "collaboration", "team player", "analytical skills"],
+    "list": [ "code review","Problem Solving", "innovation", "leadership",  "collaboration", "team player", "analytical skills"],
     "show": 1
   }
 ]

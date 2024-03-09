@@ -1,5 +1,12 @@
 [
   {
+    "title": "Intelligent Information Extractor",
+    "imageSrc": "projects/project.png",
+    "description": "Extracting useful information from audio/text files using LLMs (on-going)",
+    "skills": ["Python","Flask","MongoDB","LLMs", "React", "API dev"],
+    "source": "https://github.com/saivineethkumar/"
+  },
+  {
     "title": "Stock Trading System",
     "imageSrc": "projects/project.png",
     "description": "Mock stock trading application developed using distributed system design practices.",
